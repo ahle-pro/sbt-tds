@@ -1,5 +1,5 @@
 # sbt-tds
-Trick Detection System for Cognitive Test
+Trick Detection System based on a sequence of photos.
 
 
 
